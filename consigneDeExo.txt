@@ -1,0 +1,7 @@
+laravel_auth_exo_1
+En auto apprentissage, installer le système d'authentification : Laravel Breeze
+
+consigne :
+-faire un commit avant de faire l'exercice
+-Créez un projet avec le système d'authentification
+-une fois installé, tester le système, et analyser les fichiers modifiés/ ajoutés dû à l'installation de l'auth. (n'oubliez de migrate avant)
